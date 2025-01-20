@@ -106,3 +106,4 @@ websockets==14.1
 wheel==0.45.1
 wrapt==1.17.1
 wsproto==1.2.0
+firebase                 4.0.1
